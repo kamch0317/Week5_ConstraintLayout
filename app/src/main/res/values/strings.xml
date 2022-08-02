@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+    <string name="box1">box One</string>
+    <string name="box2">box Two</string>
+    <string name="box3">Box Three</string>
+    <string name="box4">Box Four</string>
+    <string name="howToPlayTxt">How To Play</string>
+    <string name="tap_the_boxes_and_buttons">Tap the screen and buttons.</string>
+    <string name="button_red">RED</string>
+    <string name="button_yellow">YELLOW</string>
+    <string name="button_green">GREEN</string>
+</resources>
